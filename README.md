@@ -16,3 +16,4 @@
  ## 技术博客
  
   1. [美团](https://tech.meituan.com/)
+  2. [腾讯全端 AlloyTeam 团队 Blog](http://www.alloyteam.com/page/0/)
