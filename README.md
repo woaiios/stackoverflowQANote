@@ -16,7 +16,7 @@
  ## 技术博客
  
   1. [美团](https://tech.meituan.com/)
-  2. [腾讯全端 AlloyTeam 团队 Blog](http://www.alloyteam.com/page/0/)
-  3. [阿里中间件团队博客](http://jm.taobao.org/)
-  4. [Facebook iOS](https://code.facebook.com/ios/)
-
+  2. [微信阅读](http://wereadteam.github.io/)
+  3. [腾讯全端 AlloyTeam 团队 Blog](http://www.alloyteam.com/page/0/)
+  4. [阿里中间件团队博客](http://jm.taobao.org/)
+  5. [Facebook iOS](https://code.facebook.com/ios/)
