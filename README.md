@@ -1,4 +1,4 @@
-## stackoverflowQANote
+# ## stackoverflowQANote
 
 * [iPhone smooth sketch drawing algorithm](https://stackoverflow.com/q/5076622/9628756)
 
@@ -17,7 +17,7 @@
  
   * [美团](https://tech.meituan.com/)
   * [微信阅读](http://wereadteam.github.io/)
-  * [老司机 iOS 周报](https://juejin.im/user/5a52075e6fb9a01c9d31b107/posts)
+  * [老司机 iOS 周报](https://juejin.im/user/5a52075e6fb9a01c9d31b107/posts)
   * [腾讯全端 AlloyTeam 团队 Blog](http://www.alloyteam.com/page/0/)
   * [阿里中间件团队博客](http://jm.taobao.org/)
   * [Facebook iOS](https://code.facebook.com/ios/)
