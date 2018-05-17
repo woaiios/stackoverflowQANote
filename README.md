@@ -15,13 +15,13 @@
     
 * 全栈开发套件
    * 客户端
-   * * `axios` for http
-   * * `socket.io` for socket
-   * * `React` for UI
+     * axios for http
+     * socket.io for socket
+     * React for UI
    * 服务器
-   * * Node.js 
-   * * Express
-   * * MongoDB
+     * Node.js 
+     * Express
+     * MongoDB
  
  ## 技术博客
  
