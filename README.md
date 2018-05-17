@@ -13,15 +13,15 @@
 * Xcode 搜索汉字
     * 正则表达式 `"[\u4e00-\u9fa5]+`
     
-* 全栈开发套件
-   * 客户端
-     * axios for http
-     * socket.io for socket
-     * React for UI
-   * 服务器
-     * Node.js 
-     * Express
-     * MongoDB
+ * 全栈开发套件
+     * 客户端
+     * `axios` for http
+     * `socket.io` for socket
+     * `React` for UI
+ * 服务器
+     * `Node js`
+     * `Express`
+     * `MongoDB`
  
  ## 技术博客
  
