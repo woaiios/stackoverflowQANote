@@ -32,3 +32,5 @@
   * [阿里中间件团队博客](http://jm.taobao.org/)
   * [Facebook iOS](https://code.facebook.com/ios/)
   
+
+[Train AI Model](https://medium.com/nybles/create-your-first-image-recognition-classifier-using-cnn-keras-and-tensorflow-backend-6eaab98d14dd)
